@@ -16,6 +16,17 @@
 
 <img src="./diagram.png" width="100%">
 
+## ✨ Examples
+
+The animations below were rendered in Blender from real objects that were captured using our method.
+
+See [our Hugging Face repository](https://huggingface.co/datasets/fau-vce/BounceBRDF/tree/main) for high-resolution textures and captures.
+
+<img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/29867da1-8a0c-4510-9f68-f383df62344c" />
+<img width="355" height="250" alt="Image" src="https://github.com/user-attachments/assets/21032b7f-e8ab-4cec-8615-5d107170a840" />
+<img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/7d5e90a3-db74-4cb9-adeb-2f4aaa1a3e3d" />
+
+
 ## Method at a Glance
 
 We recover a spatially-varying Disney Principled BRDF (base color, roughness, metallicness, normal map) from a small set of photographs — typically nine — lit by a handheld light bounced off a wall or ceiling.
