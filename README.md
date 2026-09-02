@@ -18,13 +18,14 @@
 
 ## ✨ Examples
 
-The animations below were rendered in Blender from real objects that were captured using our method.
+The animations below were rendered in Blender from real objects captured using our method.
 
-See [our Hugging Face repository](https://huggingface.co/datasets/fau-vce/BounceBRDF/tree/main) for high-resolution textures and captures.
+See [our Hugging Face repository](https://huggingface.co/datasets/fau-vce/BounceBRDF/tree/main) for various high-resolution textures and captures.
 
-<img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/29867da1-8a0c-4510-9f68-f383df62344c" />
-<img width="355" height="250" alt="Image" src="https://github.com/user-attachments/assets/21032b7f-e8ab-4cec-8615-5d107170a840" />
-<img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/7d5e90a3-db74-4cb9-adeb-2f4aaa1a3e3d" />
+<img width="320" height="320" alt="Image" src="https://github.com/user-attachments/assets/29867da1-8a0c-4510-9f68-f383df62344c" />
+<img width="455" height="320" alt="Image" src="https://github.com/user-attachments/assets/21032b7f-e8ab-4cec-8615-5d107170a840" />
+<img width="320" height="320" alt="Image" src="https://github.com/user-attachments/assets/7d5e90a3-db74-4cb9-adeb-2f4aaa1a3e3d" />
+<img width="480" height="320" alt="Image" src="https://github.com/user-attachments/assets/cd94066a-dea4-4e69-8316-9a9dcc468da9" />
 
 
 ## Method at a Glance
